@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.jogo.jogodavelha.MainActivity" >
+
+    <item
+        android:id="@+id/novaPartida"
+        android:title="@string/novaPartida"/>
+
+</menu>
